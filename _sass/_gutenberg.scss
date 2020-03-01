@@ -9,7 +9,7 @@ $custom-font-body: null !default; // [ "Libre Baskerville", Georgia, serif ]
 $custom-font-headings: null !default;
 
 // Paragraph indenting
-$paragraph-indent: false; // [ true / false ]
+$paragraph-indent: false !default; // [ true / false ]
 
 // Base sizes
 $base-font-size: 100 !default; // In %. Also used for mobile. Number only, no units.
