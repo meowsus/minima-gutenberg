@@ -85,3 +85,41 @@ $font-headings: null;
     $font-headings: $custom-font-headings;
   }
 }
+
+// Import partials.
+@import
+  "gutenberg/mixins/font-size",
+  "gutenberg/mixins/line-height",
+  "gutenberg/mixins/margin",
+  "gutenberg/mixins/padding",
+
+  "gutenberg/helpers/alignment",
+  "gutenberg/helpers/grid",
+
+  "gutenberg/layout/aside",
+  "gutenberg/layout/base",
+  "gutenberg/layout/footer",
+  "gutenberg/layout/header",
+  "gutenberg/layout/main",
+  "gutenberg/layout/section",
+
+  "gutenberg/modules/anchor",
+  "gutenberg/modules/article",
+  "gutenberg/modules/audio",
+  "gutenberg/modules/canvas",
+  "gutenberg/modules/code",
+  "gutenberg/modules/details",
+  "gutenberg/modules/figure",
+  "gutenberg/modules/form",
+  "gutenberg/modules/heading",
+  "gutenberg/modules/horizontal-rule",
+  "gutenberg/modules/image",
+  "gutenberg/modules/list",
+  "gutenberg/modules/navigation",
+  "gutenberg/modules/progress",
+  "gutenberg/modules/quote",
+  "gutenberg/modules/table",
+  "gutenberg/modules/template",
+  "gutenberg/modules/text",
+  "gutenberg/modules/video"
+;
