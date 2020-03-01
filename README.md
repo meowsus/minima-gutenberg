@@ -2,9 +2,11 @@
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme, just with [Gutenberg](https://matejlatin.github.io/Gutenberg/) plopped on top. It's what you get when you run `jekyll new`.
 
-Version information:
+__Versioning__:
 
-* `minima-gutenberg 0.1.0 == minima 2.5.1`
+* `minima-gutenberg` version `0.1.0` includes
+  * `minima` version `2.5.1`
+  * `gutenberg` master@[e770c46](https://github.com/matejlatin/Gutenberg/commit/e770c460ae2d50fecb5142476490715caaa03bf1)
 
 [Theme preview](https://meowsus.github.io/minima-gutenberg/)
 
