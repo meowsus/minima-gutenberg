@@ -1,8 +1,12 @@
-# minima
+# minima-gutenberg
 
-*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
+*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme, just with [Gutenberg](https://matejlatin.github.io/Gutenberg/) plopped on top. It's what you get when you run `jekyll new`.
 
-[Theme preview](https://jekyll.github.io/minima/)
+Version information:
+
+* `minima-gutenberg 0.1.0 == minima 2.5.1`
+
+[Theme preview](https://meowsus.github.io/minima-gutenberg/)
 
 ![minima theme preview](/screenshot.png)
 
@@ -11,13 +15,13 @@
 Add this line to your Jekyll site's Gemfile:
 
 ```ruby
-gem "minima"
+gem "minima-gutenberg"
 ```
 
 And add this line to your Jekyll site:
 
 ```yaml
-theme: minima
+theme: minima-gutenberg
 ```
 
 And then execute:
